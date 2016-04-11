@@ -1,6 +1,4 @@
 # lewisbarker.me
-Personal website source
+Personal website source - currently inactive.
 
-www.lewisbarker.me
-
-Actual website purpose is undecided, but is being used for learning about hosting etc.
+Was used for learning about hosting etc.
